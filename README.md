@@ -1,18 +1,18 @@
-# IT-INCUBATOR Todolist Project
+TaskManager
 
-## React + TypeScript + Vite
+React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite.
 
-## Getting Started
+Getting Started
 
-### 1. Install dependencies:
+1. Install dependencies:
 
 ```bash
 pnpm i
 ```
 
-### 2. Start app:
+2. Start app:
 
 ```bash
 pnpm dev
